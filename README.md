@@ -3,4 +3,4 @@
 Poop
 - Play as ninja frog to dodge poop as long as possible
 
-![Imgur](https://i.imgur.com/a5UAF0F.gif)
+![](https://github.com/1201ysy/Poop-Unity/blob/main/poop.gif)
